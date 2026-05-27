@@ -35,7 +35,7 @@ project-folder/
 
 ```bash
 git clone https://github.com/Tharunecious/RequestFlow.git
-cd repository-name
+cd RequestFlow
 ```
 
 ---
