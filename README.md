@@ -34,7 +34,7 @@ project-folder/
 ## Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/repository-name.git
+git clone https://github.com/Tharunecious/RequestFlow.git
 cd repository-name
 ```
 
