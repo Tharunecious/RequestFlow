@@ -40,6 +40,36 @@ cd RequestFlow
 
 ---
 
+## Environment Variables
+
+Before running the project, create a `.env` file inside the `backend` and `frontend` folders.
+
+Copy values from:
+
+```txt
+backend/.env.example
+```
+
+Then create and paste it:
+
+```txt
+backend/.env
+```
+
+For frontend:
+
+Copy:
+
+```txt
+frontend/.env.example
+```
+
+Then create and paste it:
+
+```txt
+frontend/.env
+```
+
 
 ## How to Open the Project
 
