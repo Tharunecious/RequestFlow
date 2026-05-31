@@ -7,7 +7,7 @@ import {
     FileSpreadsheet
 } from 'lucide-react';
 
-export const Timeline = ({ logs }) => {
+export const TimeLine = ({ logs }) => {
     const getStatusBadgeClass = (status) => {
         switch (status) {
             case 'Submitted':
