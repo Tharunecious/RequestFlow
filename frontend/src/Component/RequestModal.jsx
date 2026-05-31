@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from "react";
-import { Timeline } from "./Timeline";
+import { TimeLine } from './TimeLine';
 import {
     X,
     Tag,
@@ -177,7 +177,7 @@ export const RequestModal = ({
                                 </div>
                             </div>
 
-                            <Timeline logs={request.logs} />
+                            <TimeLine logs={request.logs} />
                         </div>
                     )}
 
